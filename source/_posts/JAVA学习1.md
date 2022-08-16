@@ -4,8 +4,8 @@ date: 2022-08-16 19:08:53
 tags: JAVA
 categories: JAVA
 comments: false
-top_img: /img/java.jpg
-cover: /img/java.jpg
+top_img: https://s2.loli.net/2022/08/16/btc7AOVp3qDrwKf.jpg
+cover: https://s2.loli.net/2022/08/16/btc7AOVp3qDrwKf.jpg
 ---
 
 # JAVA基础知识
